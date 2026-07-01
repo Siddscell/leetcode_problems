@@ -1,5 +1,39 @@
 # leetcode_problems
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+
+Daily grind toward a stronger DSA foundation — every problem I solve gets pushed here the moment I submit it on LeetCode.
+
+## About
+
+This repo is my running log of LeetCode solutions, updated in real time as I solve problems. No manual commits, no cherry-picking — whatever I solve, good or ugly, lands here. It doubles as an interview-prep journal and a way to track topic coverage over time.
+
+Each problem gets its own folder with the original prompt and my accepted solution, and the topic table below updates as new problems get added.
+
+## Stack / Tools
+
+- Languages vary per problem (primarily Python / JavaScript, based on whatever felt right for that problem)
+
+## Structure
+
+```
+leetcode_problems/
+├── 1846-maximum-element-after-decreasing-and-rearranging/
+├── 1967-number-of-strings-that-appear-as-substrings-in-word/
+├── 2812-find-the-safest-path-in-a-grid/
+├── 3020-find-the-maximum-number-of-elements-in-subset/
+├── 3737-count-subarrays-with-majority-element-i/
+└── ...
+```
+
+Each folder contains:
+- The problem statement / notes
+- My accepted solution
+- (Where relevant) complexity notes or an alternate approach
+
+## Progress
+
+Topics covered so far, auto-generated from solved problems — spanning arrays, graphs, greedy, binary search, union-find, heaps, and more. See the full breakdown below.
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -73,3 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Siddscell/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
+
+---
+
+*New solutions and topic entries are added automatically as I solve problems — no manual edits needed above the topics table.*
