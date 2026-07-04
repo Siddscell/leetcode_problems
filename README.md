@@ -1,6 +1,6 @@
-# leetcode_problems
+# Leetcode_problems
 
-Daily grind toward a stronger DSA foundation — every problem I solve gets pushed here the moment I submit it on LeetCode.
+Daily grind toward a stronger DSA foundation - every problem I solve gets pushed here the moment I submit it on LeetCode.
 
 ## About
 
